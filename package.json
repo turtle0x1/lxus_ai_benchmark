@@ -1,0 +1,7 @@
+{
+    "name": "lxus_ai_bench",
+    "version": "1.0.0",
+    "bin": {
+        "lxus_ai_bench": "./src/wrap-cli.js"
+    }
+}
