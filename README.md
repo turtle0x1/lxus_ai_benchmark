@@ -1,4 +1,4 @@
-# LXCUS AI benchmark
+# LXUS AI benchmark
 This repro is a very simple set of tasks to benchmark how well an AI model can interact with a 
 LXD/Incus server and the containers/VM's (refered to as "compute units") within them.
 
